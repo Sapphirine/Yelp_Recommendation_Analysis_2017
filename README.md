@@ -1,4 +1,4 @@
-#Yelp_Recommendation_Analysis_2017
+# Yelp_Recommendation_Analysis_2017
 A system to make recommendation based on user personality
 
 ## Environment
